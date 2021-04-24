@@ -18,9 +18,10 @@ const Footer = ({ openPopup }) => {
           <FooterLinksWrapper>
             <FooterLinkItems>
               <FooterLinkTitle>About Us</FooterLinkTitle>
-              <FooterLink to="/works" onClick={openPopup}>
+              <FooterLink to="/" onClick={openPopup}>
                 How it works
               </FooterLink>
+              <FooterLink to="/tips">Tip me!</FooterLink>
               <FooterLink to="/contact">Contact</FooterLink>
             </FooterLinkItems>
           </FooterLinksWrapper>

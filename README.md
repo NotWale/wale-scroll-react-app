@@ -1,5 +1,5 @@
 React App with smooth scrolling.
-Live Version here: ...
+Live Version here: [On Netlify](https://distracted-elion-a2b17a.netlify.app)
 
 In the project directory, you can run:
 
