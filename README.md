@@ -1,4 +1,6 @@
 React App with smooth scrolling.
+Added a Crypto Price Tracker from coingeckos API.
+
 Live Version here: [On Netlify](https://distracted-elion-a2b17a.netlify.app)
 
 In the project directory, you can run:

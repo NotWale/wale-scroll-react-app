@@ -4,7 +4,7 @@ export const homeObjOne = {
   lightText: false,
   lightTextDesc: false,
   topLine: "Light Side",
-  headLine: "You have reached the light",
+  headLine: "Crypto Monitor",
   description: "Click the button to scroll back up",
   buttonLabel: "Slow mo",
   dark: false,

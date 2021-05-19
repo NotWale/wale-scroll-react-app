@@ -1,0 +1,15 @@
+.page-item {
+  display: inline-block;
+  list-style-type: none;
+}
+
+.link {
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.link:hover:not(.active) {
+  background-color: #ddd;
+}
