@@ -3,6 +3,8 @@ Added a Crypto Price Tracker from coingeckos API.
 
 Live Version here: [On Netlify](https://distracted-elion-a2b17a.netlify.app)
 
+Video from [Pexels](https://www.pexels.com)
+
 In the project directory, you can run:
 
 ### `npm start`
